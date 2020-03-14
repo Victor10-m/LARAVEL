@@ -3,7 +3,7 @@
 
 
 <div class="container my-4">
- <h1 class="display-4"> Notas </h1>
+ <h1 class="display-4"> Notas #1 </h1>
 
  @if(session('mensaje'))
  <div class="alert alert-success">
